@@ -23,7 +23,7 @@
 *.m4a binary -delta
 *.mpa binary -delta
 *.mpg binary -delta
-*.m4s
+*.m4s binary -delta
 *.mpeg binary -delta
 *.mpkg binary -delta
 *.oga binary -delta
