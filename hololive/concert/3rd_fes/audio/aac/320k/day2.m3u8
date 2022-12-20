@@ -3,6 +3,7 @@
 #EXT-X-TARGETDURATION:600
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.chapters",URI="https://raw.githubusercontent.com/daydreamer-json/discography_cdn_003/main/hololive/concert/3rd_fes/chapters.json"
 #EXTINF:600.000000,
 seg/day2/00000000.ts
 #EXTINF:600.000000,
